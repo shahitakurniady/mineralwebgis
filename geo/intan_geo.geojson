@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "intan_geo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "long": 114.4226, "lat": -0.4834, "Longitude": 213112.8707, "Latitude": 9945906.759, "No_Lokasi": 3.087, "Kode_Unsur": "Di", "Klmpk_komo": "Batu Mulia", "Lokasi": "Perbukitan Desa Malasan", "Hipotetik": 101, "Tereka": 0, "Terukur": 0, "Terkira": 0, "Terbukti": 0, "Catatan": "Sumberdaya berupa gravel 1.700.000 ton, bj 2,5 kadar 0,148 karat\/m3", "Tkt_penyel": "Survei Tinjau", "Sumbr_data": "Neraca" }, "geometry": { "type": "Point", "coordinates": [ 114.4226, -0.4834 ] } },
+{ "type": "Feature", "properties": { "id": 2, "long": 114.8181, "lat": -3.4805, "Longitude": 257595.4361, "Latitude": 9615015.119000001, "No_Lokasi": 3.562, "Kode_Unsur": "Di", "Klmpk_komo": "Batu Mulia", "Lokasi": "Desa Palam", "Hipotetik": 0, "Tereka": 33, "Terukur": 0, "Terkira": 10, "Terbukti": 0, "Catatan": "Sumber Daya Teraka 33,522,908 m3 ; Intan 1,672,807 carat. Sumber Daya Tertunjuk 10,067,293 m3 ; Intan 937,305 carat; Kadar 0,098. Cadangan Terkira 10,066,271 m3 ; Intan 937,227 carat; Grade 0,093.", "Tkt_penyel": "Operasi Produksi", "Sumbr_data": "Tabulasi Minerba Tahun 2020, PT. Galuh Cempaka" }, "geometry": { "type": "Point", "coordinates": [ 114.8181, -3.4805 ] } }
+]
+}

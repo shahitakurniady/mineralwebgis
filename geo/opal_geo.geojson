@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "opal_geo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "long": 106.3408, "lat": -6.4299, "Longitude": 648433.3213, "Latitude": 9289078.244000001, "No_Lokasi": 2.102, "Kode_Unsur": "Op", "Klmpk_komo": "Batu Mulia", "Lokasi": "Ciburuy", "Hipotetik": 0, "Tereka": 0, "Terukur": 1.05, "Terkira": 0, "Terbukti": 0, "Catatan": "Batu permata, bunglon dari batuair", "Tkt_penyel": "Studi Kelayakan", "Sumbr_data": "SDM 1998" }, "geometry": { "type": "Point", "coordinates": [ 106.3408, -6.4299 ] } },
+{ "type": "Feature", "properties": { "id": 2, "long": 106.3531, "lat": -6.4641, "Longitude": 649628.937, "Latitude": 9285293.427, "No_Lokasi": 2.103, "Kode_Unsur": "Op", "Klmpk_komo": "Batu Mulia", "Lokasi": "Sekarwangi", "Hipotetik": 0, "Tereka": 0, "Terukur": 0.62, "Terkira": 0, "Terbukti": 0, "Catatan": "Batu permata, bunglon dari batuair", "Tkt_penyel": "Studi Kelayakan", "Sumbr_data": "SDM 1998" }, "geometry": { "type": "Point", "coordinates": [ 106.3531, -6.4641 ] } }
+]
+}

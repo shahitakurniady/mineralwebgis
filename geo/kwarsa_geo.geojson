@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "kwarsa_geo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "long": 100.4858, "lat": -0.9565, "Longitude": 665406.0433, "Latitude": 9894319.485, "No_Lokasi": 3.641, "Kode_Unsur": "Q", "Klmpk_komo": "Mineral Industri", "Lokasi": "Desa Batugadang", "Hipotetik": 0, "Tereka": 0, "Terukur": 0, "Terkira": 908.936, "Terbukti": 0, "Catatan": "Luas 107,20 Ha", "Tkt_penyel": "Operasi Produksi", "Sumbr_data": "PT. Semen Padang, RKAB 2018" }, "geometry": { "type": "Point", "coordinates": [ 100.4858, -0.9565 ] } },
+{ "type": "Feature", "properties": { "id": 2, "long": 102.5354, "lat": -2.312, "Longitude": 225888.642, "Latitude": 9744215.199, "No_Lokasi": 4.004, "Kode_Unsur": "Q", "Klmpk_komo": "Mineral Industri", "Lokasi": "Bathin VIII", "Hipotetik": 0, "Tereka": 3370, "Terukur": 20240, "Terkira": 0.0, "Terbukti": 0, "Catatan": "Luas 2.422 Ha", "Tkt_penyel": "Eksplorasi", "Sumbr_data": "Tabulas Rekon Minerba 2020, PT. Bumi Kuarsa Abadi" }, "geometry": { "type": "Point", "coordinates": [ 102.5354, -2.312 ] } },
+{ "type": "Feature", "properties": { "id": 3, "long": 102.7386, "lat": -2.3504, "Longitude": 248507.5609, "Latitude": 9740005.098, "No_Lokasi": 4.005, "Kode_Unsur": "Q", "Klmpk_komo": "Mineral Industri", "Lokasi": "Desa Rantau Tenang", "Hipotetik": 0, "Tereka": 0, "Terukur": 2475139, "Terkira": 3590.0, "Terbukti": 16910, "Catatan": "Luas 65,9 Ha", "Tkt_penyel": "Operasi Produksi", "Sumbr_data": "Tabulasi Rekon Minerba 2020, CV. Mumtaz Berkah Silika" }, "geometry": { "type": "Point", "coordinates": [ 102.7386, -2.3504 ] } },
+{ "type": "Feature", "properties": { "id": 4, "long": 110.8521, "lat": 0.747, "Longitude": 483543.8039, "Latitude": 82566.26832, "No_Lokasi": 2.695, "Kode_Unsur": "Q", "Klmpk_komo": "Mineral Industri", "Lokasi": "Dusun Setapang, Sepuluh Engkabang, Desa Malenggang", "Hipotetik": 390, "Tereka": 0, "Terukur": 0, "Terkira": 0.0, "Terbukti": 0, "Catatan": "Singkapan kuarsa warna putih susu, keras, berupa bongkah-bongkah berukuran 3 m, luas 5 Ha. hasil analisa kimia menunjukan kandungan SiO2 : 96.51%", "Tkt_penyel": "Survei Tinjau", "Sumbr_data": "APBN 2010" }, "geometry": { "type": "Point", "coordinates": [ 110.8521, 0.747 ] } }
+]
+}

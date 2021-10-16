@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "amethyst_geo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "long": 110.5939, "lat": -2.0046, "Longitude": 454838.3274, "Latitude": 9778424.963, "No_Lokasi": 2.857, "Kode_Unsur": "Am", "Klmpk_komo": "Batu Mulia", "Lokasi": "Aluvial Sungai Belaban, Kampung Belaban, Desa Sukaraja", "Hipotetik": 0, "Tereka": 8.668, "Terukur": 0, "Terkira": 0, "Terbukti": 0, "Catatan": "Endapan Kecubung Sekunder", "Tkt_penyel": "Prospeksi", "Sumbr_data": "DIM 20O2" }, "geometry": { "type": "Point", "coordinates": [ 110.5939, -2.0046 ] } }
+]
+}
